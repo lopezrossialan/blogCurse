@@ -1,0 +1,36 @@
+@media (max-width: 1250px) {
+    .wrap {
+        width: 90%;
+        margin: 0px auto;
+    }
+    #banner h1 {
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    .card {
+        width: 190px;
+        margin: 5px;
+    }
+    .card p {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #article {
+        width: 65%;
+    }
+    #article article {
+        width: 97%;
+    }
+    #footer .wrap>div {
+        width: 24%;
+    }
+    #footer #browsers img {
+        width: 14px;
+    }
+    #footer h5 {
+        font-size: 30px;
+    }
+}
